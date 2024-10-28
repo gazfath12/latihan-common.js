@@ -12,6 +12,7 @@ function kali(a, b) {
 }
 
 module.exports = {
+    tambah,
     kurang,
     kali
 }
